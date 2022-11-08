@@ -12,7 +12,7 @@ class Nahi:
     self.surname = 'Torres'
     self.education = { 'PhD':'PoliMi (It.)', 'Msc':'UNLP (Arg.)'}
     self.projects = ['PeakLens', 'SavagerAI', 'ODIN']
-    self.experience = ['Global Logic', 'Accenture', 'PoliMi']
+    self.experience = {'Research Felllow': ['PoliMi', 'UNLP'], 'Teaching Assistant': ['PoliMi', 'UNLP'], 'Java Developer': ['Global Logic'], 'Functional Analyst': ['Accenture']}
     self.interests = ['SE', 'ML', 'CV', 'RS', 'Environmental Monitoring']
     self.languages = ['Spanish', 'English', 'Italian']
     self.hobbies = ['Dancing', 'Cooking']
