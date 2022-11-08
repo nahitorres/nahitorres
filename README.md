@@ -22,7 +22,7 @@ class Nahi:
 
 <div>
 <ul>
-<li><a href=https://peaklens.com/ target="_blank">PeakLens</a>: an AI+CV powered Android applicationfor engaging people in mountain exploration. Voted Most Popular App on 2020 Huawei App Innovation Contetest</li>
+<li><a href=https://peaklens.com/ target="_blank">PeakLens</a>: an AI+CV powered Android applicationfor engaging people in mountain exploration. Voted Most Popular App on 2020 Huawei App Innovation Contest</li>
 
 <li><a href=https://aerialwaste.org/ target="_blank">AerialWaste</a>: a dataset for the discovery of illegal landfill. The dataset contains +10.000 satellite images from three different sources at high resolution. The dataset emerges as part of the <a href="https://www.arpalombardia.it/Pages/IA-nel-progetto-Savager,-collaborazione-tra-Arpa-Lombardia-e-Politecnico-di-Milano.aspx#" target="_blank">Savager AI</a> project to detect illegal landfills from Satellitary Imagery in collaboration with Regional Environmental Protection Agency of Lombardy (Italy)</li>
 
