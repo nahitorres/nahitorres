@@ -1,5 +1,5 @@
 
-Hi, I'm Nahime and I recently obtained my Ph.D. in Information Technology at Politecnico di Milano. To obtain it I worked in different projects concerning environmental applications (Illegal Landfills Detection, Mountain Peaks Detection, Snow Estimation). During this journey I developed technical skills in Software Engineer, Mobile and Web Development,  Machine Learning, Computer Vision, as well as soft skills such as Communication, Project Management and Lidership. 
+👋 Hi, I'm Nahime and I recently obtained my Ph.D. in Information Technology at Politecnico di Milano. To obtain it I worked in different projects concerning environmental applications (Illegal Landfills Detection, Mountain Peaks Detection, Snow Estimation). During this journey I developed technical skills in Software Engineer, Mobile and Web Development,  Machine Learning, Computer Vision, as well as soft skills such as Communication, Project Management and Lidership. 
 
 
 ✨ About me:
