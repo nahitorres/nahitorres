@@ -1,4 +1,8 @@
 
+Hi, I'm Nahime and I recently obtained my Ph.D. in Information Technology at Politecnico di Milano. To obtain it I worked in different projects concerning environmental applications (Illegal Landfills Detection, Mountain Peaks Detection, Snow Estimation). During this journey I developed technical skills in Software Engineer, Mobile and Web Development,  Machine Learning, Computer Vision, as well as soft skills such as Communication, Project Management and Lidership. 
+
+
+✨ About me:
 ```python
 
 class Nahi:
@@ -9,12 +13,10 @@ class Nahi:
     self.education = { 'PhD':'PoliMi (It.)', 'Msc':'UNLP (Arg.)'}
     self.projects = ['PeakLens', 'SavagerAI', 'ODIN']
     self.experience = ['Global Logic', 'Accenture', 'PoliMi']
-    self.interests = ['SE', 'ML', 'CV', 'RS', 'Environment']
+    self.interests = ['SE', 'ML', 'CV', 'RS', 'Environmental Monitoring']
     self.languages = ['Spanish', 'English', 'Italian']
     self.hobbies = ['Dancing', 'Cooking']
 ```
-
-Hi, I'm Nahime and currently looking for new work opportunities. I obtained my Ph.D. in Information Technology and to obtain it I worked in different projects concerning environmental applications (Illegal Landfills Detection, Mountain Peaks Detection, Snow Estimation). During this period I developed technical skills in Software Engineer, Mobile and Web Development,  Machine Learning, Computer Vision, as well as soft skills such as communication, project management and lidership. 
 
 📌  Projects:
 
