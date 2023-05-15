@@ -1,6 +1,5 @@
 
-👋 Hi, I'm Nahime and I recently obtained my Ph.D. in Information Technology at Politecnico di Milano. To obtain it I worked in different projects concerning environmental applications (Illegal Landfills Detection, Mountain Peaks Detection, Snow Estimation). During this journey I developed technical skills in Software Engineering, Mobile and Web Development,  Machine Learning, Computer Vision, as well as soft skills such as Communication, Project Management and Leadership. 
-
+👋 Hi, I'm Nahime a ML Engineer with 4 years of experience with particular focus on Computer Vision. I had the opportunity to work in different projects concerning environmental applications (Illegal Landfills Detection, Mountain Peaks Detection, Snow Estimation). I  have developed technical skills in Software Engineering, Mobile and Web Development,  Machine Learning, Computer Vision, as well as soft skills such as Communication, Project Management and Leadership. 
 
 ✨ About me:
 ```python
